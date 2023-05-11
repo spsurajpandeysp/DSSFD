@@ -1,6 +1,10 @@
 const Comp = (props) =>{
     return (
-        <h1>Name {props.name}</h1>
+        <div>
+            <h1>Name {props.name}</h1>
+        <h1>Hello</h1>
+        </div>
+        
     )
 }
 
